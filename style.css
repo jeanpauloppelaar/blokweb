@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+}
+
+header{
+    background: #35d177;
+    width: 100%;
+    height: 1em;
+
+}
+
+#main-header{
+    justify-content: center;
+    height: 4em;
+
+}
+
+#logo{
+    padding: 1em 2.5em;
+}
+
+
+header nav {
+}
+
+
+
+img{
+    max-width: 100%;
+
+
+
+}
+
+main{
+    padding: 0 1em;
+}
+
+h1{
+    color: #35d177;
+
+}
+
+
+
+p{
+    line-height: 1.5em;
+    color: #35d177;
+
+}
+
+
+
+article {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  width: 100%;
+  height: auto;
+  width: 100vw;
+}
+
+div {
+    flex: 0 0 auto;
+
+}
+.populaire verhalen{
+    width: 80%;
+    max-width: 25em;
+    float: left;
+    margin-bottom: 1em;
+    margin-right: 0;
+}
+
